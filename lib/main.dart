@@ -213,7 +213,7 @@ class _ProductPageState extends State<ProductPage> {
                                 const SizedBox(
                                   width: 20.0,
                                   child: Text(
-                                    '0',
+                                    '2',
                                     style: TextStyle(fontSize: 24.0),
                                   ),
                                 ),
